@@ -1,0 +1,6 @@
+{
+  "name": "RoadGuard Sensor Test",
+  "description": "Experimental sensor and GPS road disturbance data collector with CSV/JSON export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
